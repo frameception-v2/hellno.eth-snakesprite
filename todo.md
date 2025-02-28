@@ -1,4 +1,4 @@
-- [ ] Task 1: Create core GameState structure and reset endpoint  
+- [x] Task 1: Create core GameState structure and reset endpoint  
   File: src/app/api/reset/route.ts  
   Action: Create new route file  
   Code:  
