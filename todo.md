@@ -25,7 +25,7 @@
   Endpoint: POST /api/reset  
   Completion: POST returns 200 with snake.length === 1
 
-- [ ] Task 2: Add movement logic and state serialization  
+- [x] Task 2: Add movement logic and state serialization  
   File: src/lib/gameLogic.ts  
   Action: Create new utility file  
   Code:  
