@@ -51,7 +51,7 @@
   ```  
   Completion: Manual state edit shows head position changes
 
-- [ ] Task 3: Implement collision detection  
+- [x] Task 3: Implement collision detection  
   File: src/lib/collisionDetection.ts  
   Action: Create new utility file  
   Code:  
