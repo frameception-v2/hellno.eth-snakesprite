@@ -71,7 +71,7 @@
   ```  
   Completion: Head at [8,4] sets gameOver=true
 
-- [ ] Task 4: Create basic OG template  
+- [x] Task 4: Create basic OG template  
   File: src/app/api/image/route.ts  
   Action: Create new route file  
   Code:  
