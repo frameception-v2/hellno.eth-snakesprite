@@ -1,10 +1,4 @@
-export type GameState = {
-  snake: [number, number][]
-  direction: "UP" | "DOWN" | "LEFT" | "RIGHT"
-  score: number
-  gameOver: boolean
-  won: boolean
-}
+import { GameState } from "~/lib/gameLogic";
 
 export async function POST() {
   const initialState: GameState = {
