@@ -38,7 +38,7 @@ function ExampleCard() {
   );
 }
 
-export default function Frame() {
+export default function ExampleFrame() {
   const [isSDKLoaded, setIsSDKLoaded] = useState(false);
   const [context, setContext] = useState<Context.FrameContext>();
 
